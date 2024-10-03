@@ -1,0 +1,8 @@
+# Normalize all text files to use LF
+* text eol=lf
+
+# Specific treatment for Jupyter notebooks
+*.ipynb text eol=lf
+
+# Windows batch files should use CRLF
+*.bat text eol=crlf
