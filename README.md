@@ -27,3 +27,6 @@ This project demonstrates the use of the `langchain` framework along with `langc
 
 ## Environment Variables
 GROQ_API_KEY: Your API key for accessing the Groq model services. Make sure to keep this key confidential.
+
+## License
+This project is open-source. You can modify and distribute it according to the terms of your chosen license.
