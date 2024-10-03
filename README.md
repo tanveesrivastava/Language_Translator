@@ -18,3 +18,9 @@ This project demonstrates the use of the `langchain` framework along with `langc
 
    ```bash
    pip install langchain langchain_groq langchain_core python-dotenv
+
+## Set up the Groq API key:
+1. Create a `.env` file in the root of your project directory.
+2. Add the following line to the `.env` file:
+   ```bash
+   GROQ_API_KEY=your_groq_api_key_here
