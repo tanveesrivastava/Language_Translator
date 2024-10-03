@@ -24,3 +24,6 @@ This project demonstrates the use of the `langchain` framework along with `langc
 2. Add the following line to the `.env` file:
    ```bash
    GROQ_API_KEY=your_groq_api_key_here
+
+## Environment Variables
+GROQ_API_KEY: Your API key for accessing the Groq model services. Make sure to keep this key confidential.
